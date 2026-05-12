@@ -527,6 +527,7 @@ const allowedOrigins = [
     "https://demo-asto-poject-5pyv.vercel.app",
     "https://demo-asto-poject-vrxc.vercel.app",
     "https://demo-asto-poject.vercel.app",
+    "https://demo-asto-poject-5ua8.vercel.app",
     "https://astrologer-backendcoll-chaat.onrender.com"
 ];
 
